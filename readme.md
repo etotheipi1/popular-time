@@ -1,4 +1,4 @@
-# [Popular Times](index.html)
+# [Popular Times](https://etotheipi1.github.io/popular-time/)
 
 Collects Google's live visit data for shops around me and shows graphs of the averages by the day of the week.
 
